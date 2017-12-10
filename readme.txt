@@ -1,5 +1,2 @@
-pwd						--显示当前目录
-ls						--列出当前目录下文件/文件夹
-git init				--初始化一个Git仓库（当前目录）
-git add <file>			--添加文件Git仓库
-git commit -m"xxx"		--提交文件Git仓库 -m"description"
+Git is a distributed version control system
+Git is free software
