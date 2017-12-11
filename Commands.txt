@@ -11,3 +11,7 @@ git log						--查看提交日志
 git log --pretty=oneline	--查看提交日志（仅commit_id和说明）
 git reflog					--查看命令记录
 cat <file>					--查看文件内容
+git checkout -- <file>		--撤销工作区的修改
+git reset HEAD <file>		--撤销暂存区的修改（工作区中修改仍在）
+rm <file>					--将文件删除
+git rm <file>				--将文件从版本库删除
